@@ -1,0 +1,136 @@
+{
+  "base_bjtu_images": 2665,
+  "base_util_images": 5063,
+  "base_total_images": 7728,
+  "query_images": 135,
+  "detection_images": 1494,
+  "detection_jsons": 1494,
+  "detection_paired_jsons": 1494,
+  "detection_boxes": 1541,
+  "base_counts": {
+    "fhy": 289,
+    "jx": 136,
+    "kx": 53,
+    "mh": 279,
+    "nm": 291,
+    "sjz": 296,
+    "sy": 293,
+    "tsg": 299,
+    "ty": 273,
+    "yf": 135,
+    "yk": 51,
+    "zx": 270
+  },
+  "query_counts": {
+    "fhy": 15,
+    "jx": 7,
+    "kx": 2,
+    "mh": 14,
+    "nm": 15,
+    "sjz": 15,
+    "sy": 15,
+    "tsg": 15,
+    "ty": 14,
+    "yf": 7,
+    "yk": 2,
+    "zx": 14
+  },
+  "detection_label_top20": [
+    [
+      "BJTU",
+      497
+    ],
+    [
+      "FHY",
+      260
+    ],
+    [
+      "MH",
+      246
+    ],
+    [
+      "ZX",
+      238
+    ],
+    [
+      "TSG",
+      80
+    ],
+    [
+      "YKS",
+      44
+    ],
+    [
+      "KXHT",
+      43
+    ],
+    [
+      "TYHT",
+      42
+    ],
+    [
+      "JTU",
+      29
+    ],
+    [
+      "JXGCL",
+      18
+    ],
+    [
+      "YFJXL",
+      14
+    ],
+    [
+      "KX",
+      5
+    ],
+    [
+      "fhy",
+      3
+    ],
+    [
+      "HLCT",
+      3
+    ],
+    [
+      "LSYT",
+      2
+    ],
+    [
+      "SYL",
+      2
+    ],
+    [
+      "ZTY",
+      2
+    ],
+    [
+      "XX",
+      2
+    ],
+    [
+      "jzxy",
+      1
+    ],
+    [
+      "JZXY",
+      1
+    ]
+  ],
+  "invalid_box_count": 1,
+  "invalid_box_examples": [
+    {
+      "json": "fhy-287c278gf92.json",
+      "box": [
+        476.09691912708604,
+        -2.842170943040401e-14,
+        530.0526315789473,
+        210.68421052631578
+      ],
+      "size": [
+        768,
+        1024
+      ]
+    }
+  ]
+}

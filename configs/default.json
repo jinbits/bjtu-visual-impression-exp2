@@ -1,0 +1,25 @@
+{
+  "retrieval": {
+    "batch_size": 24,
+    "num_workers": 0,
+    "pca_dim": 256,
+    "top_k": 60,
+    "use_dino": true,
+    "use_openclip": true,
+    "fallback_size": 224
+  },
+  "detection": {
+    "imgsz": 640,
+    "epochs": 30,
+    "batch": 8,
+    "model": "yolov8s.pt",
+    "seed": 2026,
+    "train_ratio": 0.8,
+    "val_ratio": 0.1
+  },
+  "visualization": {
+    "cases_per_class": 2,
+    "retrieved_per_case": 3
+  }
+}
+

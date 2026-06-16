@@ -1,0 +1,15 @@
+{
+  "base_images": 7727,
+  "query_images": 135,
+  "top_k": 60,
+  "pca": {
+    "method": "sklearn_pca_whiten",
+    "dim": 256
+  },
+  "overall": {
+    "class": "overall",
+    "P@20": 0.8985185185185186,
+    "P@40": 0.852037037037037,
+    "P@60": 0.8051851851851851
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "status": "ok_with_finalize_warning",
+  "best": "C:\\Users\\33074\\Documents\\微专业\\outputs\\detection_train\\text_yolov8s\\weights\\best.pt",
+  "device": "auto",
+  "warning": "[Errno 22] Invalid argument: 'C:\\\\Users\\\\33074\\\\Documents\\\\微专业\\\\outputs\\\\detection_train\\\\text_yolov8s\\\\weights\\\\last.pt'"
+}
