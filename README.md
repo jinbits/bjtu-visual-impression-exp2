@@ -6,8 +6,8 @@
 3. 生成检索曲线、24 组“检索-检测”可视化
 
 
-- 学号：`22311005`
-- 姓名：黄锦
+- 学号：`保密`
+- 姓名：保密
 - GitHub链接：`https://github.com/ts-ts-ts-1/bjtu-visual-impression-exp2.git`
 
 ## 环境安装
